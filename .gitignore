@@ -8,9 +8,9 @@ venv/
 *-checkpoint.ipynb
 
 
-# ignore h5 and csv files
+# ignore h5 files
 *.h5
-*.csv
+
 
 # ignore notebooks
 # *.ipynb
