@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.vscode/
+.pyc
+
+venv/
+*-checkpoint.ipynb
+
+
+# ignore h5 and csv files
+*.h5
+*.csv
+
+# ignore notebooks
+# *.ipynb
